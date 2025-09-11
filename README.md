@@ -13,6 +13,6 @@ Run the main notebook:
 
 the main notebook uses data in ta/Taipei and runs the experiments automatically.
 
-## Taiepi-specific features (supported)
+## Taipei-specific features (supported)
 - Motorcycle restriction (禁行機車)
 - Two-stage left turns (兩段式左轉): apply an additional 1-minute travel time penalty; apply a 2-minute penalty for large intersections.
