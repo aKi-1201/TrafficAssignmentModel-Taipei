@@ -1,0 +1,12 @@
+==== 最終結果 ====
+總體旅行時間 (TSTT) 23130787.71 分鐘
+最短路徑旅行時間 (SPTT) 23019189.76 分鐘
+總汽車流量 11786417.40 輛小時
+總機車流量 5900287.34 輛小時
+總車流量 17686704.75 輛小時
+平均旅行時間 1.31 分鐘輛
+最終 Gap 0.00485
+平均步長 0.1191, 步長標準差 0.0638
+Assignment took 2666.8115496635437 seconds
+Assignment stopped in 28 iterations, current gap 0.00485
+Minimum gap found at iteration 28 with gap 0.00485
