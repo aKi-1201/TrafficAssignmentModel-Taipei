@@ -3,7 +3,7 @@
 A collection of Jupyter Notebooks and Python utilities to build, solve, and visualize traffic assignment models for Taipei. This repository demonstrates data preparation, network building, demand creation, and numerical solution methods (e.g., All‑or‑Nothing, Frank‑Wolfe / User Equilibrium).
 
 ## Network and OD data
-- TRTS-4S data: [https://github.com/aKi-1201/Traffic-Assignment-Model.git](https://github.com/aKi-1201/ta-model-TRTS-4S) 
+- TRTS-4S data: https://github.com/aKi-1201/ta-model-TRTS-4S
 - Put the downloaded network and OD data files into: ta/Taipei
 
 ## Run
