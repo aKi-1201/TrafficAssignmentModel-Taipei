@@ -1,4 +1,4 @@
-/# TrafficAssignmentModel‑Taipei
+# TrafficAssignmentModel‑Taipei
 
 A collection of Jupyter Notebooks and Python utilities to build, solve, and visualize traffic assignment models for Taipei. This repository demonstrates data preparation, network building, demand creation, and numerical solution methods (e.g., All‑or‑Nothing, Frank‑Wolfe / User Equilibrium).
 
