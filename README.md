@@ -14,5 +14,5 @@ Run the main notebook:
 the main notebook uses data in ta/Taipei/ and runs the experiments automatically.
 
 ## Taipei-specific features (supported)
-- Vehcle restriction (禁行機車、汽車)
+- Vehicle restriction (禁行機車、汽車)
 - Two-stage left turns for motocycle (機車兩段式左轉): apply an additional 1-minute travel time penalty; apply a 2-minute penalty for large intersections.
