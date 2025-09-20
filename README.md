@@ -23,3 +23,4 @@ the main notebook uses data in ta/Taipei/ and runs the experiments automatically
 - [@prameshk/Traffic-Assignment](https://github.com/prameshk/Traffic-Assignment)
 - [@bstabler/TransportationNetworks](https://github.com/bstabler/TransportationNetworks)
 
+![image](https://github.com/aKi-1201/TrafficAssignmentModel-Taipei/blob/main/UML%20class%20diagram.svg)
