@@ -18,7 +18,7 @@ the main notebook uses data in ta/Taipei/ and runs the experiments automatically
 - Two-stage left turns for motocycle (機車兩段式左轉): apply an additional 1-minute travel time penalty; apply a 2-minute penalty for large intersections.
 
 ## UML class diagram
-![image](https://github.com/aKi-1201/TrafficAssignmentModel-Taipei/blob/main/UML%20class%20diagram.svg)
+![image](image/UML class diagram.svg)
 
 ## Credit
 - [@prameshk/Traffic-Assignment](https://github.com/prameshk/Traffic-Assignment)
